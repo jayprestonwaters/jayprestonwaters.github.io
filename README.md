@@ -4,6 +4,6 @@
 
 ## [Hangman Game](hangman.md)
 
-## [Speed Game](speed.md)
-
 ## [Scholarship Application Update](scholarship.md)
+
+## [Speed Game](speed.md)
