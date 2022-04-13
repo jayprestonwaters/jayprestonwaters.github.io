@@ -1,9 +1,9 @@
 # CS 3750 Projects
 
-## Number guessing game
+## [Number Guessing Game](numberguessing.md)
 
-## Hangman game
+## [Hangman Game](hangman.md)
 
-## Speed game
+## [Speed Game](speed.md)
 
-## Scholarship project
+## [Scholarship Application Update](scholarship.md)
