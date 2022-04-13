@@ -1,9 +1,9 @@
-# CS 3750 Projects
+# [CS 3750 Projects Repo](https://github.com/jayprestonwaters/CS3750_Projects)
 
-## [Number Guessing Game](numberguessing.md)
+### [Number Guessing Game](numberguessing.md)
 
-## [Hangman Game](hangman.md)
+### [Hangman Game](hangman.md)
 
-## [Scholarship Application Update](scholarship.md)
+### [Scholarship Application Update](scholarship.md)
 
-## [Speed Game](speed.md)
+### [Speed Game](speed.md)
