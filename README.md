@@ -7,3 +7,5 @@
 ### [Scholarship Application Update](scholarship.md)
 
 ### [Speed Game](speed.md)
+
+### [Investment Tool Project](investmentproject.md)
