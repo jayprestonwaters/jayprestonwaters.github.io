@@ -51,3 +51,7 @@ if($_SESSION["target"] > $_SESSION["guess"]) {
 <h2 align="center">
   <a href="https://jaywatersspr22.epizy.com/">Try it out!</a>
 </h2>
+
+<h3 align="center">
+    <a href="https://jayprestonwaters.github.io/">Home</a>
+</h3>

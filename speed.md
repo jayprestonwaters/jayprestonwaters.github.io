@@ -28,3 +28,7 @@ public async Task Draw()
 <h2 align="center">
   <a href="https://github.com/jayprestonwaters/CS3750_Projects">Give it a try!</a>
 </h2>
+
+<h3 align="center">
+    <a href="https://jayprestonwaters.github.io/">Home</a>
+</h3>

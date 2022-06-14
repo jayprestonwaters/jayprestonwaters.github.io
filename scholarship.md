@@ -13,3 +13,7 @@ dotnet tool install -g upgrade-assistant
 
 upgrade-assistant analyze <Path to csproj or sln to upgrade>
 ```
+
+<h3 align="center">
+    <a href="https://jayprestonwaters.github.io/">Home</a>
+</h3>

@@ -28,3 +28,7 @@ Once the user has made investments, they can view the history of their investmen
 
 The app is coded in Java and employs the [Spring MVC framework](https://spring.io/), introducing web application functionality, and uses [MySQL](https://www.mysql.com/) 
 as its database management system, facilitating user information and investment history data retention.
+
+<h3 align="center">
+    <a href="https://jayprestonwaters.github.io/">Home</a>
+</h3>
