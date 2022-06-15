@@ -31,7 +31,7 @@ sendButton.onclick = function () {
 ...
 
 <h2 align="center">
-  <a href="https://github.com/jayprestonwaters/CS3750_Projects">See for yourself!</a>
+  <a href="https://github.com/jayprestonwaters/CS3750_Projects">Download the code!</a>
 </h2>
 
 <h3 align="center">
