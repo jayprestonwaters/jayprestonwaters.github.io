@@ -9,3 +9,10 @@
 ### [Speed Game](speed.md)
 
 ### [Investment Tool Project](investmentproject.md)
+
+<br>
+
+---
+<h4 align="center">
+  <a href="https://github.com/jayprestonwaters/">jayprestonwaters</a> on GitHub
+</h4>
