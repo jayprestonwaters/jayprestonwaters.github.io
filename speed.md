@@ -26,7 +26,7 @@ public async Task Draw()
 }
 ```
 <h2 align="center">
-  <a href="https://github.com/jayprestonwaters/CS3750_Projects">Give it a try!</a>
+  <a href="https://github.com/jayprestonwaters/CS3750_Projects">Download the code!</a>
 </h2>
 
 <h3 align="center">
