@@ -1,6 +1,6 @@
 theme: jekyll-theme-slate
 title: CS3750 Portfolio
-description: Showcasing my contributions to projects in CS 3750
+description: Showcasing my group projects from CS 3750
 titles_from_headings:
   enabled:     false
   strip_title: false
